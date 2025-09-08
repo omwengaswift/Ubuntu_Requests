@@ -21,8 +21,8 @@
    Run the script
 
 2. **python fetch_images.py**
-  ```bash
-  python fetch_images.py
+     ```bash
+     python fetch_images.py
 
 3. **Enter image URLs**
 
